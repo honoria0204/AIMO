@@ -2,7 +2,7 @@
 ## AIMO
 AI-generated dataset for Maritime Object classification
 
-We need a senior project manager or senior researcher at your institution to sign the attached agreement (https://github.com/honoria0204/AIMO/data/AIMO_Benchmark_Agreement.pdf) for using our dataset.
+We need a senior project manager or senior researcher at your institution to sign the attached agreement (https://github.com/honoria0204/AIMO/blob/main/data/AIMO_Benchmark_Agreement.pdf) for using our dataset.
 ## RMO
 Real-world Maritime Object benchmark
 
